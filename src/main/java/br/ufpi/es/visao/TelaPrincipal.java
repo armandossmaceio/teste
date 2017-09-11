@@ -19,6 +19,7 @@ public class TelaPrincipal {
 		Usuario u1 = new Usuario();
 		Usuario u2 = new Usuario();
 		Usuario u3 = new Usuario();
+		Usuario u4 = new Usuario();
 		
 		u1.setId(1);
 		u1.setNome("Maria");
@@ -26,7 +27,10 @@ public class TelaPrincipal {
 		u2.setNome("Francisca");
 		u2.setId(3);
 		u2.setNome("José");
+		u2.setId(4);
+		u2.setNome("Raimundo");
 
+		
 		//cria repositorio
 		IRepositorioUsuario repositorioLista = new RepositorioLista();
 		IRepositorioUsuario repositorioVetor = new RepositorioVetorUsuarios();
