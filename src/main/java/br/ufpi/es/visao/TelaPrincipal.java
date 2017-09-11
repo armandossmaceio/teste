@@ -20,15 +20,18 @@ public class TelaPrincipal {
 		Usuario u2 = new Usuario();
 		Usuario u3 = new Usuario();
 		Usuario u4 = new Usuario();
+		Usuario u5 = new Usuario();
 		
 		u1.setId(1);
 		u1.setNome("Maria");
 		u2.setId(2);
 		u2.setNome("Francisca");
-		u2.setId(3);
-		u2.setNome("José");
-		u2.setId(4);
-		u2.setNome("Raimundo");
+		u3.setId(3);
+		u3.setNome("José");
+		u4.setId(4);
+		u4.setNome("Raimundo");
+		u5.setId(5);
+		u5.setNome("Fátima");
 
 		
 		//cria repositorio
