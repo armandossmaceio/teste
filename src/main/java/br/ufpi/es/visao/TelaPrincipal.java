@@ -48,6 +48,7 @@ public class TelaPrincipal {
 		logger.info("Registro de informação");
 		logger.error("Registro de erro");
 		logger.info("novo log");
+		logger.info("novo log 2");
 	}
 
 }
