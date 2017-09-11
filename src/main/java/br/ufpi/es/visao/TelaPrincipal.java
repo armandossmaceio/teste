@@ -49,6 +49,7 @@ public class TelaPrincipal {
 		logger.error("Registro de erro");
 		logger.info("novo log");
 		logger.info("novo log 2");
+		System.out.println("Teste do github");
 	}
 
 }
