@@ -60,10 +60,10 @@ public class TelaPrincipal {
 	}
 	
 	public String massmaceio(){
-		return("maceio"); 
+		return("Maceió - Alagoas - Brasil"); 
 	}
 
 	public String massrecife(){
-		return "Recife";
+		return "Recife - Pernambuco - Brasil";
 	}
 }
