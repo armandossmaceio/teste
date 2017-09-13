@@ -60,10 +60,10 @@ public class TelaPrincipal {
 	}
 	
 	public String massmaceio(){
-		return("Maceió - Alagoas - Brasil - DDD: (082)"); 
+		return("Maceió - Alagoas - Brasil - DDD (082)"); 
 	}
 
 	public String massrecife(){
-		return "Recife - Pernambuco - Brasil - DDD: (081)";
+		return "Recife - Pernambuco - Brasil - DDD (081)";
 	}
 }
