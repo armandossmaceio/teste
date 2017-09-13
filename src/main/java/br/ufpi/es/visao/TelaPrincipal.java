@@ -59,4 +59,7 @@ public class TelaPrincipal {
 		System.out.println("Teste do github");
 	}
 
+	public String massrecife(){
+		return "Recife";
+	}
 }
