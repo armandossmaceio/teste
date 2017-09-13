@@ -58,5 +58,9 @@ public class TelaPrincipal {
 		logger.info("novo log 2");
 		System.out.println("Teste do github");
 	}
+	
+	public String massmaceio(){
+		return("maceio"); 
+	}
 
 }
