@@ -19,7 +19,7 @@ public class RepositorioLista implements IRepositorioUsuario{
 		return lista.get(index);
 	}
 
-	public void alterar(Usuario o, Usuario n) {
+	public void alterar(Usuario original, Usuario novo) {
 		// TODO Auto-generated method stub
 	}
 
