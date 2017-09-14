@@ -59,5 +59,12 @@ public class TelaPrincipal {
 		logger.info("novo log 2");
 		System.out.println("Teste do github");
 	}
+	
+	public String massmaceio(){
+		return("Maceió - Alagoas - Brasil - DDD (082)"); 
+	}
 
+	public String massrecife(){
+		return "Recife - Pernambuco - Brasil - DDD (081)";
+	}
 }
