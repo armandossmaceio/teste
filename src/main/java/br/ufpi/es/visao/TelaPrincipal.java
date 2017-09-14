@@ -49,6 +49,7 @@ public class TelaPrincipal {
 		List<Usuario> lista = controlador.lista();
 		for(Usuario u : lista){
 			System.out.println("Id: " + u.getId() + " - " + u.getNome());
+			System.out.println("Linha adicionada no branch principal master local");
 		}
 
 		logger.debug("Registro de debug");
